@@ -1,0 +1,4 @@
+baseurl = "https://techmaniack.github.io/"
+languageCode = "en-us"
+title = "ReverseHack.In"
+theme="base16"
